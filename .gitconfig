@@ -1,0 +1,7 @@
+[user]
+	name = sankyo-toshio
+	email = 6stts9@gmail.com
+[color]
+	ui = auto
+[core]
+	attributesfile = /home/centos/.gitattributes_global
