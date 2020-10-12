@@ -103,5 +103,5 @@ eval "$(pyenv init -)"
 
 
 export PATH="$PATH:/usr/pgsql-9.6/bin/"
-rt TERM=xterm-256color
-rt PS1='\[\e[1;37m\]\u@\h:\w${text}$\[\e[m\] '
+export TERM=xterm-256color
+export PS1='\[\e[1;37m\]\u@\h:\w${text}$\[\e[m\] '
